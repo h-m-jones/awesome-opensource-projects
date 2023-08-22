@@ -1,10 +1,10 @@
-# awesome-opensource-projects
+# Open Source Project List
 
-Awesome open source projects for developers to gain real experience in various tech stacks. It's a great way to keep your skills up to date.
+List of open source projects that are great for regular developers to gain real experience in various tech stacks. 
 
 Inspired by [NBN Atlas project hub](https://github.com/nbnuk/nbn-project-hub)  that I maintain (listed below). See also [opensource-for-good-causes](https://github.com/h-m-jones/opensource-for-good-causes)
 
-If you are a maintainer of an open-source project or  can recommend an open-source project, add it to the list:  fork this repo, add the details to the README.md and issue a PR. State what the main language/framework is.
+If you are a maintainer of an open-source project or can recommend an open-source project to developers, let us know about it [CONTRIBUTING](./CONTRIBUTING.md)
 
 ## React 
 
